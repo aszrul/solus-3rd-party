@@ -11,13 +11,6 @@ sudo rm sublime*.eopkg
 ```
 
 
-### ToDo Lists
-
-- [ ] Android Studio Canary
-- [ ] Android SDK Tools
-- [ ] Oracle Java 9
-
-
 # Special Thanks and Credits to
 
 Solus OS Devs team for developing one of the great distro for desktop workstation. [Click here for the original repo](https://github.com/solus-project/3rd-party) for reference.
